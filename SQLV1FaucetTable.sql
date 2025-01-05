@@ -199,8 +199,6 @@ CREATE TABLE `Users` (
 --
 
 INSERT INTO `Users` (`id`, `wallet_address`, `balance`, `registration_date`, `ip_address`, `referral_code`, `referred_by`, `last_claim_time`) VALUES
-(169, 'TREvY2bkf2mDP7E4ktMqgMYNMnqEMESXe8', 0.000081, '2024-06-29 10:32:23', '2a02:a58:85c4:e600:5523:20ff:4bd0:1966', '81009', NULL, '2024-07-02 04:53:34');
-
 -- --------------------------------------------------------
 
 --
